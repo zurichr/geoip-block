@@ -1,4 +1,4 @@
-# update-country-blocks.sh
+# geoip-block.sh
 
 Fetches aggregated IP ranges for one or more countries from [ipdeny.com](https://www.ipdeny.com) and writes iptables `DROP` rules to `/etc/iptables/rules.v4`, blocking all inbound traffic from those ranges on all ports.
 
