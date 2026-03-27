@@ -11,7 +11,7 @@ Fetches aggregated IP ranges for one or more countries from [ipdeny.com](https:/
 
 ## Usage
 
-Pass countries as a comma-separated environment variable or as space-separated arguments. Country codes follow the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) standard (e.g. `ru`, `cn`, `in`).
+Pass countries as a comma-separated environment variable or as space-separated arguments. Country codes follow the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) standard (e.g. `cn`, `in`).
 
 ```bash
 # Via environment variable
